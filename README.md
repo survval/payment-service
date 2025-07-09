@@ -14,7 +14,7 @@ A complete Spring Boot 3.x microservice for processing debit and credit card pay
 ## 📁 Project Structure
 
 ```
-payment-service-resilient/
+payment-service/
 ├── src/
 │   └── main/
 │       ├── java/
