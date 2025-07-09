@@ -1,4 +1,4 @@
-# payment-service-resilient
+# payment-service
 
 A complete Spring Boot 3.x microservice for processing debit and credit card payments with resilience features:
 
